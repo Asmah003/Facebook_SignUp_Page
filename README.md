@@ -1,4 +1,4 @@
-## Projet_4: Facebook_Home_Page
+## Projet_4: Facebook_SignUP_Page
 Projet Formulaire d'Inscription Facebook
 ### Objectif
 Créer un formulaire d'inscription fonctionnel et esthétique pour une page de création de compte Facebook en utilisant uniquement HTML et CSS. Ce projet met en pratique des concepts de mise en page, de gestion des formulaires et de style visuel.
